@@ -6,6 +6,10 @@ python test.py
 # test single ema func
 python util.py ema
 python util.py slope
+
+# test multiple funcs
 python util.py ma sma ema
+
+# test all func
 python util.py all
 ```
